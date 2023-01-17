@@ -60,29 +60,36 @@
       "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
       "descricao": "1 mil visualizações",
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 9
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "9 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "useMemo: aplicação React JS com mais performance",
+      "descricao": "1.678 visualizações ",
+      "url": "https://www.youtube.com/embed/CkGh3NM6NuQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 10
     },
     {
       "titulo": "Educação coorporativa",
       "descricao": "4 mil visualizações",
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
+      "titulo": "ConstraintLayout no Android",
       "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "url": "https://www.youtube.com/embed/p4fiAiiPi3E",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 12
+    },
+    {
+      "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+      "descricao": "4.404 visualizações",
+      "url": "https://www.youtube.com/embed/fpth65ts3cw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
     }
   ]
 }
