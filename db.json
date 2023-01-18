@@ -90,6 +90,20 @@
       "url": "https://www.youtube.com/embed/fpth65ts3cw",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 13
+    },
+    {
+      "titulo": "Bones / Imagine dragons",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/V2SVRJ6dcE4",
+      "imagem": "https://i1.sndcdn.com/artworks-K5lIMosEN5ncYjf6-aHFH0A-t500x500.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "Apache Spark: Datasets com Java",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/KADh1Rq725o",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 15
     }
   ]
 }
